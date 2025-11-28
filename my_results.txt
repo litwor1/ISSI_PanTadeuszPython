@@ -1,5 +1,5 @@
-Most frequent words: ['się', 'nie', 'jak', 'już', 'tak', 'lecz', 'gdy', 'pan', 'ale', 'jest']
+Most frequent words: ['lecz', 'jest', 'rzekł', 'tylko', 'jako', 'mnie', 'hrabia', 'sędzia', 'więc', 'tadeusz']
 Longest words: ['niebezpieczeństwach', 'białopiotrowiczowi', 'najprzykładniejszy', 'niebezpieczeństwem', 'nierozstrzygniony', 'białopiotrowiczem', 'niebezpieczeństwo', 'niebezpieczeństwa', 'rzeczypospolitej', 'najpiękniejszego']
-Histogram y axis (counts): [8211 6824 9944 9544 7604 5655 3564 2092 1169  510  213   99   31    8
-    5    5    1]
-Histogram x axis (bin_edges): [ 3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20]
+Histogram y axis (counts): [6824 9944 9544 7604 5655 3564 2092 1169  510  213   99   31    8    5
+    5    1]
+Histogram x axis (bin_edges): [ 4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20]
